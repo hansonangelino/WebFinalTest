@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.FormPage {
+    flex: 1;
+    margin-right: 20px; /* Adjust margin as needed */
+}
+
+.sideImg {
+    flex: 1;
+}
+
+.sideImg img {
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.FormPage {
+    padding: 4em 4em;
+}
